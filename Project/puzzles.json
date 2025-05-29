@@ -1,0 +1,127 @@
+[
+  {
+    "title": "The Man in the Elevator",
+    "puzzle": "A man lives on the 12th floor of an apartment building. Every morning he takes the elevator down to the ground floor and leaves the building. In the evening, he gets into the elevator, and if there is someone else in the elevator or if it is raining, he goes directly to the 12th floor. Otherwise, he goes to the 10th floor and walks the rest of the way up two flights of stairs.",
+    "answer": "The man is too short to reach the 12th-floor button. He uses an umbrella or asks someone to press it for him."
+  },
+  {
+    "title": "The Poisoned Drink",
+    "puzzle": "Two people order the same drink at a bar. One person drinks it quickly and survives. The other person drinks it slowly and dies. The drink was not poisoned. How is this possible?",
+    "answer": "The poison was in the ice cubes."
+  },
+  {
+    "title": "The Carrot, Scarf, and Five Coals",
+    "puzzle": "On a cold winter's day, a man is found dead in a field. He has a carrot, a scarf, and five pieces of coal near him. How did he die?",
+    "answer": "He was a snowman that melted."
+  },
+  {
+    "title": "The Locked Room Mystery",
+    "puzzle": "A man is found dead in a locked room. The only objects in the room are a table and a puddle of water. There are no windows. How did he die?",
+    "answer": "He stood on a block of ice which melted."
+  },
+  {
+    "title": "The Broken Match",
+    "puzzle": "A person is found dead in the middle of a forest. The only thing they are holding is a broken match. There are no other people or signs of struggle nearby. How did they die?",
+    "answer": "They were in a hot air balloon that crashed. The broken match was used to light the burner."
+  },
+  {
+    "title": "The Identical Twins",
+    "puzzle": "Two look-alike women were born on the same day, at the same time, by the same parents, but they are not twins. How is this possible?",
+    "answer": "They are part of a set of triplets (or quadruplets, etc.)."
+  },
+  {
+    "title": "The One-Word Telegram",
+    "puzzle": "A man received a one-word telegram and immediately knew his brother was dead. What was the word?",
+    "answer": "Dead"
+  },
+  {
+    "title": "The Unopened Gift",
+    "puzzle": "A man receives a wrapped gift. He knows exactly what it is without opening it. How?",
+    "answer": "He wrapped it himself."
+  },
+  {
+    "title": "The Sound of Failure",
+    "puzzle": "What is full of holes but still holds water?",
+    "answer": "A sponge"
+  },
+  {
+    "title": "The Missing Step",
+    "puzzle": "A staircase has a missing step, but no one trips. Why?",
+    "answer": "It's a circular staircase."
+  },
+  {
+    "title": "The Different Coins",
+    "puzzle": "A person has two U.S. coins totaling 30 cents. One is not a nickel. What are the two coins?",
+    "answer": "A quarter and a nickel. Only one is 'not a nickel'."
+  },
+  {
+    "title": "The Traveling Salesman",
+    "puzzle": "A traveling salesman rides into town on Friday, stays for three days, and leaves on Friday. How is this possible?",
+    "answer": "His horse is named Friday."
+  },
+  {
+    "title": "The Wet Ground",
+    "puzzle": "It rained all day yesterday, but the ground is completely dry today. How?",
+    "answer": "It rained somewhere else."
+  },
+  {
+    "title": "The Numbered House",
+    "puzzle": "A house has four walls. All four walls face south. A bear walks by the house. What color is the bear?",
+    "answer": "White. If all four walls face south, the house is at the North Pole."
+  },
+  {
+    "title": "The Silent Singer",
+    "puzzle": "What has an eye but cannot see?",
+    "answer": "A needle"
+  },
+  {
+    "title": "The Growing Smaller",
+    "puzzle": "What gets bigger the more you take away?",
+    "answer": "A hole"
+  },
+  {
+    "title": "The Bridge and the Toll",
+    "puzzle": "A man has to get across a bridge that can only hold his weight. He has two children who weigh the same. How can he get all of them across the bridge?",
+    "answer": "He crosses first, then one child crosses and comes back. Then the second child crosses."
+  },
+  {
+    "title": "The Reversed Sentence",
+    "puzzle": "What is so fragile that saying its name breaks it?",
+    "answer": "Silence"
+  },
+  {
+    "title": "The Always Coming, Never Arriving",
+    "puzzle": "What is always coming, but never arrives?",
+    "answer": "Tomorrow"
+  },
+  {
+    "title": "The Empty Wallet",
+    "puzzle": "A man has an empty wallet, yet it is full. What is in it?",
+    "answer": "His identification."
+  },
+  {
+    "title": "The Word That Contains All Letters",
+    "puzzle": "What English word has all three of the following: the letter 'a', the letter 'e', and the letter 'i'?",
+    "answer": "Alphabet"
+  },
+  {
+    "title": "The Different Paths",
+    "puzzle": "Two mothers and two daughters went to a movie. There were only three tickets sold. How is this possible?",
+    "answer": "They were a grandmother, her daughter, and her granddaughter."
+  },
+  {
+    "title": "The Dropped Egg",
+    "puzzle": "A woman drops a raw egg onto a concrete floor, and it doesn't crack. How is this possible?",
+    "answer": "The concrete floor didn't crack."
+  },
+  {
+    "title": "The Number Sequence",
+    "puzzle": "What is the next letter in this sequence: O, T, T, F, F, S, S, E, N, ?",
+    "answer": "T (These are the first letters of the numbers one, two, three, four, five, six, seven, eight, nine, ten)"
+  },
+  {
+    "title": "The Deadly Fall",
+    "puzzle": "A man fell off a 20-story building but survived. How is this possible?",
+    "answer": "He fell out of a ground floor window."
+  }
+]
