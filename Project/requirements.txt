@@ -1,1 +1,5 @@
 google-generativeai
+streamlit
+sentence-transformers
+scikit-learn
+httpx
