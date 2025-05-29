@@ -11,7 +11,7 @@ import re
 st.set_page_config(page_title="Lateral Thinking Puzzles", page_icon="🕵️‍♀️")
 
 # --- Function to Load Puzzles ---
-def load_puzzles(filepath="puzzles.json"):
+def load_puzzles(filepath="Project/puzzles.json"):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             return json.load(f)
