@@ -90,7 +90,7 @@ async def get_ai_yes_no_answer(puzzle_text, puzzle_answer, user_question):
     prompt = f"""Given the lateral thinking puzzle: "{puzzle_text}" and its solution: "{puzzle_answer}", answer the question with only 'yes' or 'no'. If unsure, infer the most likely answer. Question: "{user_question}" """
     headers = {'Content-Type': 'application/json'}
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    api_key = st.secrets.get("GEMINI_API_KEY")
+    api_key = st.secrets.get("API_KEY")
     if not api_key:
         return "Error: Gemini API Key not found."
     api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
